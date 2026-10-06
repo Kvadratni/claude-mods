@@ -1,0 +1,16 @@
+{
+  "name": "dialup",
+  "version": "0.1.0",
+  "description": "Plays an old-school dial-up modem handshake while Claude is thinking or working. /modem toggles it.",
+  "author": {
+    "name": "Max Novich"
+  },
+  "userConfig": {
+    "volume": {
+      "type": "number",
+      "title": "Volume",
+      "description": "How loud the modem is: 0 is silent, 1 is the recording's own level, 4 the most.",
+      "default": 0.6
+    }
+  }
+}

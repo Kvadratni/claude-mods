@@ -1,0 +1,14 @@
+{
+  "name": "kvadratni-mods",
+  "description": "Claude Code mods by Max Novich.",
+  "owner": {
+    "name": "Max Novich"
+  },
+  "plugins": [
+    {
+      "name": "dialup",
+      "source": "./dialup",
+      "description": "Plays an old-school dial-up modem handshake while Claude is thinking or working. /modem toggles it."
+    }
+  ]
+}
